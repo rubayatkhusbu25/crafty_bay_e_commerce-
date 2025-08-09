@@ -1,4 +1,5 @@
-# crafty_bay_ecommerce
+
+
 
 # description
 E-commerce app made with flutter has followed DTD(Domain Type Design), Feature first approach, Authentication 
