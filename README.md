@@ -1,6 +1,6 @@
 
-
-
+# crafty_bay_ecommerce
+<img src="https://github.com/rubayatkhusbu25/crafty_bay_e_commerce-/blob/main/all.jpg" alt="Home Screen" width="1200" height= "800">
 # description
 E-commerce app made with flutter has followed DTD(Domain Type Design), Feature first approach, Authentication 
 features, sign in, sign up, account otp verification, home page, product list, category list, wish list,
